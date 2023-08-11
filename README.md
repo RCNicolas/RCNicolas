@@ -1,5 +1,5 @@
 <h1 align="center">Hola, Me llamo Nicolas Ruiz</h1>
-<h3 align="center">Soy Estudiante de Electrónica apasionado por la programación</h3>
+<h3 align="center">Soy Estudiante de Electrónica, apasionado por la programación</h3>
 
 - Actualmente estoy aprendiendo **Python, HTML, CSS, JavaScritp, Backend...**
 
