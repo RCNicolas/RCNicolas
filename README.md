@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">Hola, Me llamo Nicolas Ruiz 👋</h1>
+<h1 align="center">Hola, Me llamo Nicolas Ruiz 🪐</h1>
 
 ###
 
