@@ -24,6 +24,13 @@
 
 ###
 
+<h3 align="left">Actualmente estoy aprendiendo:</h3>
+
+###
+<p align="left">Python, HTML, CSS, JavaScritp... </p>
+
+###
+
 <h3 align="left">🛠 Lenguajes y herramientas:</h3>
 
 ###
